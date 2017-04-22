@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user id="1">
+    <name>Marian</name>
+    <email>marian.salvan@gmail.com</email>
+    <password>1234</password>
+    <admin>true</admin>
+  </user>
+  <user id="2">
+    <name>Ana</name>
+    <email>ana.pop@gmail.com</email>
+    <password>1234</password>
+    <admin>false</admin>
+  </user>
+  <user id="3">
+    <name>Alex</name>
+    <email>alex@gmail.com</email>
+    <password>1234</password>
+    <admin>false</admin>
+  </user>
+  <user id="4">
+    <name>Andrei</name>
+    <email>bla</email>
+    <password>1234</password>
+    <admin>False</admin>
+  </user>
+</users>

@@ -1,0 +1,15 @@
+E:\My Programs\C#\MVC\MVC\bin\Debug\MVC.exe.config
+E:\My Programs\C#\MVC\MVC\bin\Debug\MVC.exe
+E:\My Programs\C#\MVC\MVC\bin\Debug\MVC.pdb
+E:\My Programs\C#\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+E:\My Programs\C#\MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+E:\My Programs\C#\MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.Cache
+E:\My Programs\C#\MVC\MVC\obj\Debug\MVC.exe
+E:\My Programs\C#\MVC\MVC\obj\Debug\MVC.pdb
+E:\My Programs\C#\MVC\MVC\obj\Debug\MVC.View.Admin.resources
+E:\My Programs\C#\MVC\MVC\obj\Debug\MVC.View.LoginView.resources
+E:\My Programs\C#\MVC\MVC\obj\Debug\MVC.View.RegularUser.resources
+E:\My Programs\C#\MVC\MVC\bin\Debug\itextsharp.dll
+E:\My Programs\C#\MVC\MVC\bin\Debug\itextsharp.pdfa.dll
+E:\My Programs\C#\MVC\MVC\bin\Debug\itextsharp.xtra.dll
+E:\My Programs\C#\MVC\MVC\bin\Debug\itextsharp.xml

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book id="1">
+    <title>Crime and punishment</title>
+    <author>Feodor Dostoievski</author>
+    <genre>Phycology</genre>
+    <quantity>80</quantity>
+    <price>30</price>
+  </book>
+  <book id="2">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <genre>Drama</genre>
+    <quantity>140</quantity>
+    <price>35</price>
+  </book>
+  <book id="3">
+    <title>Meditations</title>
+    <author>Marcus Aurelius</author>
+    <genre>Philosophy</genre>
+    <quantity>30</quantity>
+    <price>60</price>
+  </book>
+  <book id="4">
+    <title>Lolita</title>
+    <author>Vladimir Nabokov</author>
+    <genre>Drama</genre>
+    <quantity>0</quantity>
+    <price>45</price>
+  </book>
+  <book id="5">
+    <title>The Triall</title>
+    <author>Franz Kafka</author>
+    <genre>Phycology</genre>
+    <quantity>0</quantity>
+    <price>40</price>
+  </book>
+  <book id="6">
+    <title>To kill a mockingbird</title>
+    <author>Harper Lee</author>
+    <genre>Drama</genre>
+    <quantity>50</quantity>
+    <price>25</price>
+  </book>
+  <book id="7">
+    <title>26 de pasi</title>
+    <author>Tibi Useriu</author>
+    <genre>SF</genre>
+    <quantity>0</quantity>
+    <price>30</price>
+  </book>
+</books>

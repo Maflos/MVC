@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sellings>
+  <selling id="1">
+    <seller>2</seller>
+    <book>1</book>
+    <quantity>10</quantity>
+    <price>300</price>
+  </selling>
+  <selling id="1">
+    <seller>2</seller>
+    <book>3</book>
+    <quantity>100</quantity>
+    <price>6000</price>
+  </selling>
+  <selling id="2">
+    <seller>1</seller>
+    <book>2</book>
+    <quantity>20</quantity>
+    <price>700</price>
+  </selling>
+  <selling id="3">
+    <seller>1</seller>
+    <book>2</book>
+    <quantity>20</quantity>
+    <price>700</price>
+  </selling>
+  <selling id="3">
+    <seller>1</seller>
+    <book>2</book>
+    <quantity>20</quantity>
+    <price>700</price>
+  </selling>
+  <selling id="4">
+    <seller>1</seller>
+    <book>2</book>
+    <quantity>20</quantity>
+    <price>700</price>
+  </selling>
+  <selling id="5">
+    <seller>2</seller>
+    <book>1</book>
+    <quantity>20</quantity>
+    <price>600</price>
+  </selling>
+  <selling id="5">
+    <seller>2</seller>
+    <book>2</book>
+    <quantity>10</quantity>
+    <price>350</price>
+  </selling>
+  <selling id="5">
+    <seller>2</seller>
+    <book>4</book>
+    <quantity>50</quantity>
+    <price>1250</price>
+  </selling>
+  <selling id="6">
+    <seller>3</seller>
+    <book>7</book>
+    <quantity>1</quantity>
+    <price>30</price>
+  </selling>
+</sellings>
